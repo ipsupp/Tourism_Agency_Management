@@ -1,0 +1,17 @@
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Middleware.exe
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Middleware.deps.json
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Middleware.runtimeconfig.json
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Middleware.pdb
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfo.cs
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.csproj.Up2Date
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\refint\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.pdb
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\Middleware.genruntimeconfig.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net6.0\ref\Middleware.dll
