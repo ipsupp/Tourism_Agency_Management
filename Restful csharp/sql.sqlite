@@ -1,0 +1,49 @@
+necessary sql: 
+Select @@servername as [ServerName]
+use mpp;
+CREATE TABLE Agency
+(
+    id varchar(20) not null primary key,
+    agency_name varchar(20)
+);
+
+CREATE TABLE Employee (
+    id VARCHAR(20) PRIMARY KEY,
+    id_agency VARCHAR(20),
+    login_user VARCHAR(20),
+    login_pswd VARCHAR(20),
+    FOREIGN KEY (id_agency) REFERENCES Agency(id)
+);
+select * from Agency
+
+CREATE TABLE TCompany (
+    id_company VARCHAR(20) PRIMARY KEY,
+    company_name VARCHAR(20)
+);
+
+CREATE TABLE Trip (
+    id VARCHAR(20) PRIMARY KEY,
+    id_company VARCHAR(20),
+    id_agency VARCHAR(20),
+    location VARCHAR(255),
+    departure_time INT,
+    price FLOAT,
+    available_seats INT,
+    FOREIGN KEY (id_company) REFERENCES TCompany(id_company),
+    FOREIGN KEY (id_agency) REFERENCES Agency(id)
+);
+
+CREATE TABLE Reservation (
+    id VARCHAR(20) PRIMARY KEY,
+    id_trip VARCHAR(20),
+    name VARCHAR(40),
+    phone_number VARCHAR(20),
+    no_tickets INT,
+    FOREIGN KEY (id_trip) REFERENCES Trip(id)
+);
+
+
+insert into Agency values(1,'Hybri')
+insert into Agency values(2,'Nexion')
+insert into Agency values(3,'Elevate')
+insert into Agency values(4,'Tyson')
