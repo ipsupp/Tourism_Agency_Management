@@ -1,0 +1,201 @@
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Trip Planner\Trip_Planner-main\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\popov\Downloads\c_sharp_version (1)\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Ado.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Ado.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\popov\Downloads\XPlatform\XPlatform\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Ado.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Ado.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Middleware.exe
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Middleware.runtimeconfig.json
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Ado.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\runtimes\win7-x64\native\sni.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\runtimes\win7-x86\native\sni.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.csproj.Up2Date
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
+C:\Users\popov\OneDrive\Desktop\Restful csharp\Middleware\obj\Debug\net8.0\ref\Middleware.dll
