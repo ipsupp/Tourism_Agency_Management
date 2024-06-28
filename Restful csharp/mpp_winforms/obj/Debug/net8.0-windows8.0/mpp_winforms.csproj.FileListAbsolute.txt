@@ -1,0 +1,106 @@
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.AssemblyReference.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Middleware.deps.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Middleware.runtimeconfig.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Middleware.exe
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.exe
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.dll.config
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.deps.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.runtimeconfig.json
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\mpp_winforms.pdb
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Azure.Core.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Azure.Identity.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\log4net.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\log4net.Ext.Json.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Identity.Client.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Newtonsoft.Json.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\System.Memory.Data.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\System.Runtime.Caching.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Middleware.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\bin\Debug\net8.0-windows8.0\Middleware.pdb
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Login.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form2.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form3.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form4.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms._5Server.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Properties.Resources.resources
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.GenerateResource.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winf.ECA8A5F6.Up2Date
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\refint\mpp_winforms.dll
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.pdb
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.genruntimeconfig.cache
+C:\Users\Ioana\Downloads\c_sharp_version\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\ref\mpp_winforms.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.AssemblyReference.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\refint\mpp_winforms.dll
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.pdb
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Login.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form2.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form3.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form4.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms._5Server.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Properties.Resources.resources
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.GenerateResource.cache
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Desktop\XPlatform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.CoreCompileInputs.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.AssemblyReference.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Login.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form2.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form3.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form4.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms._5Server.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Properties.Resources.resources
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.GenerateResource.cache
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\Downloads\XPlatform V2\XPlatform V2\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.AssemblyReference.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Login.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form2.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form3.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Form4.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms._5Server.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.Properties.Resources.resources
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.GenerateResource.cache
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\OneDrive\Desktop\Cross Platform\c_sharp_version\mpp_winforms\obj\Debug\net8.0-windows8.0\mpp_winforms.csproj.CoreCompileInputs.cache
