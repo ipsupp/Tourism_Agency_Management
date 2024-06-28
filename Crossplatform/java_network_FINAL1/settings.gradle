@@ -1,0 +1,5 @@
+rootProject.name = 'java_network'
+include 'mpp_java'
+include 'ServerApp'
+include 'Middleware'
+

@@ -1,0 +1,34 @@
+import java.sql.Wrapper
+
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':Middleware')
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.16.1'
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.9'
+    implementation group: 'org.slf4j', name: 'slf4j-log4j12', version: '2.0.9'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.19.0'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version : '2.14.0'
+
+    implementation group: 'org.xerial', name: 'sqlite-jdbc', version: '3.45.1.0'
+
+}
+
+test {
+    useJUnitPlatform()
+}
